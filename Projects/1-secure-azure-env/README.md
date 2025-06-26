@@ -11,7 +11,7 @@ Deployed a secure Azure test environment with network segmentation, hardened VM 
 |----------|---------------|
 | **Resource Group** | `rg-intern-sec-01` |
 | **Virtual Network** | `vnet-intern-sec-01` with 3 subnets (web, db, mgmt) |
-| **VM** | `vm-sec-mgmt01` (Windows Server, B2s) |
+| **VM** | `vm-sec-mgmt01` (Windows Server 2019, Standard B1s) |
 | **Access** | Azure Bastion only – no public IPs |
 | **Security** | NSG allows RDP only from Bastion |
 | **Monitoring** | Defender for Cloud Plan 2 with auto-provisioned MDE agent |
