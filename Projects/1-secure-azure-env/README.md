@@ -1,7 +1,7 @@
 # Project 1 – Secure Azure Environment & Microsoft Defender for Cloud
 
 ## Objective
-Deploy a secure Azure test environment with network segmentation, hardened VM access, and security monitoring using Microsoft Defender for Cloud.
+Deployed a secure Azure test environment with network segmentation, hardened VM access, and security monitoring using Microsoft Defender for Cloud.
 
 ---
 
