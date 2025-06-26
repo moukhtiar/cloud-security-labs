@@ -27,7 +27,7 @@ Deployed a secure Azure test environment with network segmentation, hardened VM 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 See the [`Screenshots/`](./Screenshots/) folder for:
 
 - Bastion RDP Access
