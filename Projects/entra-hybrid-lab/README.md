@@ -29,7 +29,6 @@ entra-hybrid-lab/
 > Explore Microsoft Entra ID hybrid identity with on-prem Active Directory Domain Services and Entra Connect Sync.
 
 - Synchronize on-prem AD users and groups
-- Explore password hash sync vs pass-through auth
 - Filter synchronization using Organizational Units
 - Post-configuration management via Entra Admin Center
 
