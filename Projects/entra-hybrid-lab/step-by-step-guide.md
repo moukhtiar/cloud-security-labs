@@ -72,8 +72,7 @@ This guide walks through synchronizing on-premises AD users with Microsoft Entra
 
 - View synced users
 ![Synced Users](./screenshots/15-entra-synced-users.png)
-- Advanced management with Synchronization Manager
-![Sync Manager](./screenshots/16-sync-service-manager.png)
+
 
 ---
 
