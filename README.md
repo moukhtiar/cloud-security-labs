@@ -8,9 +8,9 @@ Welcome to **Cloud Security Labs** – a hands-on portfolio of practical cloud s
 
 ## What’s Inside
 
-| Lab | Title | Focus Area |
-|-----|-------|------------|
-| [1](./Projects/1-secure-azure-env) | Secure Azure Environment & Defender for Cloud | Network hardening, secure VM access, Microsoft Defender for Cloud |
+- [1 – Secure Azure Environment](Projects/1-secure-azure-env/)
+- [2 – Identity Hardening with Entra ID](Projects/2-identity-hardening/)
+- [Entra Hybrid Identity Lab](Projects/entra-hybrid-lab/)
 
 More labs coming soon...
 
