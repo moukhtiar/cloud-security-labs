@@ -71,6 +71,28 @@ Strengthen your Azure environment’s identity and access security using Microso
 - `Report.md`: Summary of security findings
 - `Screenshots/`: Step-based visual evidence
 
+  ---
+  ## Navigation
+
+🔹 [⬅ Back to All Labs](../../README.md)  
+🔹 [1 – Secure Azure Environment](../1-secure-azure-env/)  
+🔹 [3 – Coming Soon](../3-governance-access-reviews/)  
+
+---
+
+## Author
+
+**Muktar Mohamed**  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/muktarmohamed)
+
+---
+
+## Next Steps
+
+- Explore Identity Governance (Access Reviews, Entitlement Management)
+- Simulate leaked credentials scenarios
+- Integrate Defender for Identity with Sentinel
+
 ---
 
 ## Summary
