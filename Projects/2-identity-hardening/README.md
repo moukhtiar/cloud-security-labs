@@ -51,7 +51,7 @@ Strengthen your Azure environment’s identity and access security using Microso
  Screenshot:
 - `Screenshots/Step2-risky-signin-demo-user1.png`
 
-![Risky Sign-In - Demo User1](Screenshots/Step2-risky-signin-demo-user1.png)
+![Risky Sign-In - Demo User1](./Screenshots/Step2-risky-signin-demo-user1.png)
 
 ---
 ### Step 3: Role Assignment via Privileged Identity Management (PIM)
