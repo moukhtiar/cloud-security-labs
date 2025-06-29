@@ -43,6 +43,16 @@ A visual, hands-on walkthrough of Identity Hardening with Microsoft Entra ID. Sc
 
 ---
 
+### Risky Sign-In Triggered (Demo User1)
+
+- A risky sign-in was triggered for `Demo User1` as part of the Conditional Access test.
+- Microsoft Entra ID flagged the sign-in as high-risk based on behavior and location anomalies.
+- The user was prompted for MFA and access was monitored.
+
+ Screenshot:
+![Risky Sign-In](Screenshots/risky-signin-demo-user1.png)
+
+---
 ## Step 3: Role Assignment via PIM (Privileged Identity Management)
 
 1. Go to: Microsoft Entra ID > Roles and Administrators
