@@ -41,7 +41,19 @@ Strengthen your Azure environment’s identity and access security using Microso
 
 ---
 
+### Risky Sign-In Triggered and Detected (Demo User1)
 
+- A sign-in from **Demo User1** triggered a **"risky sign-in"** event.
+- Microsoft Entra flagged this based on sign-in behavior and simulated risk conditions.
+- Verified that Conditional Access required MFA during this attempt.
+- Reviewed alert under **Entra ID Protection > Risky sign-ins**.
+
+ Screenshot:
+- `Screenshots/Step2-risky-signin-demo-user1.png`
+
+![Risky Sign-In - Demo User1](Screenshots/Step2-risky-signin-demo-user1.png)
+
+---
 ### Step 3: Role Assignment via Privileged Identity Management (PIM)
 
 - Assigned `Security Administrator` role to `demo-user1`
